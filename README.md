@@ -1,16 +1,12 @@
-# api_tester
+# PULSE API
 
-A new Flutter project.
+- A simple flutter-based application through which we can test the API's
+- User can use the methods of GET, POST, PUT, DELETE, PATCH.
 
-## Getting Started
+# Images
+-<img width="1425" alt="Screenshot 2024-05-23 at 8 12 50 PM" src="https://github.com/dev-32/api_tester/assets/99115141/270d33ca-dac3-44dd-9e9a-245d41c34651">
 
-This project is a starting point for a Flutter application.
+-<img width="1439" alt="Screenshot 2024-05-23 at 8 13 21 PM" src="https://github.com/dev-32/api_tester/assets/99115141/06ad65b4-0a8d-460f-a1ae-d71a3e296c99">
 
-A few resources to get you started if this is your first Flutter project:
+-<img width="1432" alt="Screenshot 2024-05-23 at 8 14 08 PM" src="https://github.com/dev-32/api_tester/assets/99115141/2f2e4393-871a-4282-86af-8a766dd273c0">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
