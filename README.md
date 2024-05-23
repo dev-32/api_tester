@@ -4,7 +4,7 @@
 - User can use the methods of GET, POST, PUT, DELETE, PATCH.
 
 # Images
--<img width="1425" alt="Screenshot 2024-05-23 at 8 12 50 PM" src="https://github.com/dev-32/api_tester/assets/99115141/270d33ca-dac3-44dd-9e9a-245d41c34651">
+-<img width="1427" alt="Screenshot 2024-05-23 at 10 05 34 PM" src="https://github.com/dev-32/api_tester/assets/99115141/ae53815b-3d23-45a3-8083-158d1252a5c9">
 
 -<img width="1439" alt="Screenshot 2024-05-23 at 8 13 21 PM" src="https://github.com/dev-32/api_tester/assets/99115141/06ad65b4-0a8d-460f-a1ae-d71a3e296c99">
 
