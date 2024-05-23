@@ -1,9 +1,25 @@
+import 'dart:async';
+
 import 'package:api_tester/screens/main_home.dart';
 import 'package:flutter/material.dart';
 
-class Home extends StatelessWidget {
+class Home extends StatefulWidget {
   const Home({super.key});
 
+  @override
+  State<Home> createState() => _HomeState();
+}
+
+class _HomeState extends State<Home> {
+  @override
+  void initState() {
+    super.initState();
+    Timer(const Duration(milliseconds: 400, seconds: 2), () {
+      Navigator.pushReplacement(
+          context, MaterialPageRoute(builder: (context) => const MainHome(),
+      ));
+    });
+  }
   @override
   Widget build(BuildContext context) {
     return Scaffold(

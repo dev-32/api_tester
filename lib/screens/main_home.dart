@@ -3,6 +3,7 @@ import 'package:api_tester/utils/json_beautifier.dart';
 import 'package:api_tester/widgets/custom_button.dart';
 import 'package:api_tester/widgets/custom_textfield.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_native_splash/flutter_native_splash.dart';
 import '../repository/api_repo.dart';
 class MainHome extends StatefulWidget {
   const MainHome({super.key});
@@ -32,6 +33,11 @@ class _MainHomeState extends State<MainHome> {
     super.dispose();
     endPointUrl.dispose();
     baseUrl.dispose();
+  }
+  @override
+  void initState() {
+    super.initState();
+    FlutterNativeSplash.remove();
   }
 
   @override
